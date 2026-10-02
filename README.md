@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Moha Sumon 👋
 
-<!--
-**florizstudios-cmd/florizstudios-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 **AI-powered short-form video creator & digital entrepreneur**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+
+- 🎥 **Viral short videos at scale** — I produce AI-generated Reels & Shorts with cinematic quality, built for Facebook, Instagram, YouTube & TikTok
+- 📄 **Content brands** — I run multiple pages & channels: pets 🐱, family 👨‍👩‍👧, CCTV moments 📹, kids' rhymes 🎵, wildlife 🦁
+- 🧩 **Creator tools** — I build browser extensions & automation tools for content creators (video downloaders, page management tools)
+- 🛒 **E-commerce** — Founder of [Jaima Collection](https://jaimacollection.store)
+
+## 🛠️ Tech & workflow
+
+`AI Video Generation` · `Prompt Engineering` · `Browser Automation` · `Meta Business Suite` · `Content Pipelines`
+
+## 📫 Connect with me
+
+- 📘 Facebook — search **Moha Sumon**
+- 📸 Instagram — [@thefayefamily](https://www.instagram.com/thefayefamily/)
+- ▶️ YouTube — [@FayeFamily-b8z](https://www.youtube.com/@FayeFamily-b8z)
+
+---
+
+⭐ *Turning AI into real content businesses — new videos daily.*
